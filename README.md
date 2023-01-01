@@ -1,5 +1,12 @@
 # RADTTS + iSTFTNet vocoder
 
+Clone the code:
+
+```bash
+git clone https://github.com/egorsmkv/radtts-istftnet
+cd radtts-istftnet
+```
+
 Install dependencies:
 
 ```bash
