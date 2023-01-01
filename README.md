@@ -12,8 +12,8 @@ Download Ukrainian RADTTS and iSTFTNet models:
 mkdir models
 cd models
 
-wget https://github.com/egorsmkv/ukrainian-radtts/releases/download/v1.0/RADTTS-Lada.pt
-wget https://github.com/egorsmkv/ukrainian-radtts/releases/download/v1.0/iSTFTNet-Vocoder-Lada.pt
+wget https://github.com/egorsmkv/radtts-istftnet/releases/download/v1.0/iSTFTNet-Vocoder-Lada.pt
+wget https://github.com/egorsmkv/radtts-istftnet/releases/download/v1.0/iSTFTNet-Vocoder-Lada.pt
 ```
 
 Then you can inference own texts by the following command:
