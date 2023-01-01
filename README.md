@@ -1,5 +1,7 @@
 # RADTTS + iSTFTNet vocoder
 
+🇺🇦 Join Ukrainian Text-to-Speech community: https://t.me/speech_synthesis_uk
+
 Clone the code:
 
 ```bash
