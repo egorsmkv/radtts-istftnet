@@ -2,6 +2,12 @@
 
 🇺🇦 Join Ukrainian Text-to-Speech community: https://t.me/speech_synthesis_uk
 
+<a target="_blank" href="https://colab.research.google.com/drive/13aa0o9fQknDcJtpLrGXhxWPvZpeUggCy?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+---
+
 Clone the code:
 
 ```bash
