@@ -66,9 +66,13 @@ def inference(input_mel_folder, checkpoint_file):
 
             os.remove(input_mel_file)
 
+        s = '/'
+        if platform == "win32":
+            s = 'results\\'
+
         names = []
         for k in files_all:
-            names.append(int(k.replace(input_mel_folder,'').replace('/','').replace('.wav','')))
+            names.append(int(k.replace(input_mel_folder, '').replace(s, '').replace('.wav', '')))
 
         names_w = [f'{it}.wav' for it in sorted(names)]
 
